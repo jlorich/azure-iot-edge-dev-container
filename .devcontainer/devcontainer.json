@@ -2,7 +2,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.117.1/containers/ubuntu-18.04-git
 {
 	"name": "IoT Edge Dev",
-	"dockerFile": "azureiotgbb/iot-edge-dev-container",
+	"dockerFile": "azureiotgbb/iot-edge-dev-container:buster-slim",
 	"postCreateCommand": "",
 
 	// Set *default* container specific settings.json values on container create.
